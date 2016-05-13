@@ -1,0 +1,29 @@
+// Place your settings in this file to overwrite the default settings
+{
+
+    //-------- Editor configuration --------
+
+    // Controls the font family.
+    "editor.fontFamily": "Fira Mono",
+
+    // Controls the font size.
+    "editor.fontSize": 13,
+
+    // Columns at which to show vertical rulers
+    "editor.rulers": [120],
+
+    // Controls whether the editor should render whitespace characters
+    "editor.renderWhitespace": true,
+
+
+    //-------- Files configuration --------
+
+    // When enabled, will trim trailing whitespace when you save a file.
+    "files.trimTrailingWhitespace": true,
+
+
+    //-------- Telemetry configuration --------
+
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false
+}
