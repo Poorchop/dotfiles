@@ -46,6 +46,9 @@ filetype plugin indent on
 " 256 colors
 set t_Co=256
 
+" Set encoding to UTF-8
+set encoding=utf-8
+
 " Enable the status bar
 set laststatus=2
 
