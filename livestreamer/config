@@ -1,3 +1,0 @@
-# Player options
-player=mpv
-player-args=--no-osc --title="Livestreamer" {filename}

@@ -1,0 +1,9 @@
+# Player options
+player=mpv --no-osc
+
+# Bypass poison
+twitch-disable-ads
+
+# Misc
+default-stream=480p,720p60,720p,best
+title={author} -- {title} -- Game: {category}
