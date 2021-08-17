@@ -1,7 +1,0 @@
-# Port of TingPing's [fedora.plugin.zsh](https://github.com/TingPing/zsh/blob/master/plugins/fedora/fedora.plugin.zsh)
-
-if [ -f /usr/bin/dnf ]
-  set -g pkgmgr dnf
-else
-  set -g pkgmgr yum
-end
